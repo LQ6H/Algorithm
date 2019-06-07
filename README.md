@@ -1,7 +1,7 @@
 # Algorithm
 # 记录学习算法的过程,学下此笔记
 
-#### 1.基本概念
+#### 1.基本概念[ipynb](https://github.com/LQ6H/Algorithm/blob/master/CH1--%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.ipynb)
 #### 2.双指针问题
 #### 3.哈希算法
 #### 4.深度优先搜索
